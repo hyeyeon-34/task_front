@@ -1,4 +1,4 @@
-/* ====== Common Post Request Function ====== */
+
 export async function postRequest(url, options) {
   const defaultOptions = {
     method: 'POST',
